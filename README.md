@@ -189,19 +189,19 @@ Performed extensive SQL analysis including:
 
 ## Executive Dashboard
 
-> *(Add Screenshot Here)*
+![Dashboard](https://github.com/IB-developer/Supply-Chain-Analysis/blob/main/screenshots/Page1.png)
 
 ---
 
 ## Product & Inventory Analytics
 
-> *(Add Screenshot Here)*
+![Dashboard](https://github.com/IB-developer/Supply-Chain-Analysis/blob/main/screenshots/Page2.png)
 
 ---
 
 ## Supplier & Logistics Analytics
 
-> *(Add Screenshot Here)*
+![Dashboard](https://github.com/IB-developer/Supply-Chain-Analysis/blob/main/screenshots/Page3.png)
 
 ---
 
